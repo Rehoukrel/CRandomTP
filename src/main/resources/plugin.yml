@@ -1,0 +1,10 @@
+name: ${project.name}
+version: ${project.version}
+main: com.github.TiveCS.crandomtp.CRandomTP
+author: TiveCS
+api-version: 1.13
+depend: [TiveCore]
+commands:
+  crandomtp:
+    aliases: [crtp, rtp, randomtp]
+    permission: crandomtp.command

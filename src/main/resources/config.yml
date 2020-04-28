@@ -1,0 +1,18 @@
+
+allowed-worlds:
+  - 'world'
+
+center-location:
+  x: 0
+  y: 0
+
+teleport-category:
+  small-area:
+    x: 50-200
+    z: 50-200
+  medium-area:
+    x: 350-1250
+    z: 350-1250
+  large-area:
+    x: 1550-3500
+    z: 1550-3500
